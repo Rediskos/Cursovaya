@@ -1,0 +1,523 @@
+
+
+
+Что такое спорт?  
+
+
+
+
+
+
+
+
+
+
+		.nivoZoomHover {
+			position:absolute;
+			top:0px;
+			left:0px;
+			z-index:9;
+			width:100%;
+			height:100%;
+			cursor:pointer;
+		}
+		.nivoCaption {
+			display:none;
+			position:absolute;
+			z-index:110;
+			text-align:center;
+			background:#010101;
+			color:#fff;
+			padding:4px 0;
+			overflow:hidden;
+		}
+		a.nivoZoom {
+			border:0 !important;
+		}
+		a.nivoZoom img {
+			-moz-box-shadow:0px 0px 5px #000;
+			-webkit-box-shadow:0px 0px 5px #000;
+			box-shadow:0px 0px 5px #000;
+		}
+		a.nivoZoom img.nivoLarge {
+			-moz-box-shadow:0px 0px 10px #000;
+			-webkit-box-shadow:0px 0px 10px #000;
+			box-shadow:0px 0px 10px #000;
+		}
+		.nivoZoomHover {
+			background:url(zoom.png) no-repeat 50% 50%;
+		}
+		.nivoZoomHover.loading {
+			background:url(loading.gif) no-repeat 50% 50%;
+			border:4px solid #000;
+			width:16px;
+			height:16px;
+			top:43%;
+			left:43%;
+			opacity:0.8;
+			-moz-border-radius:4px;
+			-webkit-border-radius:4px;
+			border-radius:4px;
+		}
+		.imgcell{
+		width:183px;
+		height:120px;
+		float:left
+		}
+		.our_gallery{
+		text-align: center;
+		 margin-top: 15px;
+		 width: 100%;
+		 height:120px
+		}
+		#smi{color:#ffffff; text-decoration:none;}
+		#smi:hover{color:#ffffff; text-decoration:none;}
+		#smi:visited{color:#ffffff; text-decoration:none;}
+	
+
+
+
+
+
+
+
+
+
+
+	//<![CDATA[
+		var template_name='GreenLeaves_BLUE';
+		var addObjectConfig = {
+		1: {
+				title:"Организацию",
+				url: "/suggest-listing.php"
+			},
+		2: {
+				title:"Объявление",
+				url: "/add_adv.php"
+			},
+		3: {
+				title:"Новость, событие",
+				url: "/suggest-news.php"
+			},
+		4: {
+				title:"Вакансию",
+				url: "/suggest-job.php?type=2"
+			},
+		5: {
+				title:"Резюме",
+				url: "/suggest-job.php?type=1"
+			}
+		}
+	//]]>
+	
+
+
+
+
+
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "1407310", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+
+
+
+
+
+Св-во регистрации СМИ ЭЛ №ФС77 - 53186  от 22.03.2013
+Спорт для детей и взрослых 
+Добавить
+организаций: 10867
+Объявлений: 1589
+секций: 38806
+отзывов: 4886
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Организации
+Объявления
+Виды спорта
+Статьи о спорте
+Работа
+Новости
+Видео уроки
+
+
+
+
+
+
+Что такое спорт?
+Спорт. Всего одно слово, а как много оно значит! Занятие спортом - определенный вид деятельности людей, направленная на достижение заданного результата в физическом развитии человека.
+
+
+Спорт - составная часть физической культуры, при которой основной упор делается на само физическое развитие человека, укрепление его здоровья и самочувствия.
+
+
+Профессиональный спорт - та его часть, в которой участвуют спортсмены, направленные именно на достижение определенного результата в своей физической деятельности, на достижение победы и новых спортивных рекордов. Спортивные состязания, среди которых Олимпиады, Чемпионаты и Турниры выявляют лучших спортсменов. Конечно, мечта каждого спортсмена - победа на Олимпийских играх, самых крупных мировых состязаниях, которые возникли еще в Древней Греции, а впоследствии собирали участников со всего мира. 
+
+
+За свою историю развития, а история спорта простирается далеко-далеко в прошлое, начинаясь почти что с каменного века, возникло большое количество видов спорта, в которых каждый может реализовать свои наиболее выдающиеся способности. Обучение занятию спортом проводят различные спортивные организации, специализирующиеся на тех или иных видах спорта. 
+
+
+Развитие, пропаганду и популяризацию спорта проводят различные Спортивные Федерации, Ассоциации и Союзы, хотя основную роль в этом играет Министерство спорта, туризма и молодежной политики РФ.
+
+
+Спорт окружает нас практически с самого рождения, в детском саду, школе, институте. Многие выбирают его в качестве своей профессии. И этому немало способствует огромная и все нарастающая популярность спорта и спортивного образа жизни.
+
+Автор: SportSchools.ru
+
+
+Интересные факты и сведения о спортсменах для детей и взрослых, спортивные рекорды
+
+
+
+
+
+
+
+    (function(w, d, n, s, t) {
+
+        w[n] = w[n] || [];
+
+        w[n].push(function() {
+
+            Ya.Context.AdvManager.render({
+
+                blockId: "R-52073-5",
+
+                renderTo: "yandex_ad_R-52073-5",
+
+                async: true
+
+            });
+
+        });
+
+        t = d.getElementsByTagName("script")[0];
+
+        s = d.createElement("script");
+
+        s.type = "text/javascript";
+
+        s.src = "//an.yandex.ru/system/context.js";
+
+        s.async = true;
+
+        t.parentNode.insertBefore(s, t);
+
+    })(this, this.document, "yandexContextAsyncCallbacks");
+
+
+
+
+
+СПЕЦИАЛЬНОЕ ПРЕДЛОЖЕНИЕСеть детских школ балета "Classic" 
+
+
+Набор в группы с 2-х лет! Бесплатное пробное занятие. Более 20 школ в Москве рядом с домом! Здоровая осанка у детей! Мини-группы, опытные педагоги, комфортные залы! Звоните!
++7 (499) 112-04-36  baletclassic.ru 
+
+Европейский Гимнастический Центр
+
+
+Гимнастика для детей от 1 года и взрослых. В разных районах Москвы. Запись на бесплатное пробное занятие + рекомендации по развитию на сайте www.europegym.ru и по тел. +7 (495) 648-88-08
+
+Отличите искусство от драки 
+
+
+Групповые и персональные тренировки по традиционному кунг-фу. Приглашаем взрослых и детей различного уровня физической подготовки. Более 20 филиалов в Москве. Звоните!
+
+
++7 (909) 914-66-30 wushu.su 
+
+Объявления
+НАБОР В СЕКЦИИ | ОБУЧЕНИЕ
+ПОКУПКИ-ПРОДАЖИ | АРЕНДА
+АКЦИИ | УСЛУГИ | ЛАГЕРЯ, СБОРЫ
+
+
+Комплексное единоборство в Костроме для детей и взрослыхБоевое и спортивное самбо в Костроме для детей и взрослыхКурсы женской самообороны, прикладного рукопашного бояКлуб каратэ "Вектор"для детей от 6 лет 
+
+
+
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+
+
+
+(function(w, c) {
+
+    (w[c] = w[c] || []).push(function() {
+
+        try {
+
+            w.yaCounter12248224 = new Ya.Metrika({id:12248224, enableAll: true, ut:"noindex", webvisor:true});
+
+        }
+
+        catch(e) { }
+
+    });
+
+})(window, "yandex_metrika_callbacks");
+
+
+
+
+
+
+
+
+
+Читайте также:Женские виды спортаЗакон о спортеИнтересные факты и сведения о спорте и спортсменахКаким спортом заняться взрослому человеку?Лучшие спортсмены России
+
+
+ 
+
+/* <![CDATA[ */
+
+    document.write('<div class="yashare-auto-init" data-yashareType="button" data-yashareQuickServices="yaru,vkontakte,facebook,twitter,odnoklassniki,moimir,lj"><\/div>');
+
+    /* ]]> */
+
+
+
+
+
+
+
+
+    (yaads = window.yaads || []).push({
+
+        id: "52073-10",
+
+        render: "#id-52073-10"
+
+    });
+
+
+
+
+
+
+
+SportSchools.ru
+Выбери свой спорт!
+
+
+						В разделе собрана информация о различных видах спорта, спортивные статьи, советы и рекомендации на спортивную тему.
+Виды спорта =>> 
+Статьи =>>
+
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+
+
+Набор в секцииОбучение в школе кунг-фу "Чёрный Дракон"Европейский Гимнастический Центр проводит набор в летние группы для детей от 1 года и взрослыхВедется набор в детские и взрослые группы по прикладному рукопашному бою и боевому самбоНабор девочек 10-15 лет на эстетическую гимнастикуСпортивная аэробикаОткрылся набор детей от 6 лет в группы по плаваниюЦентральная школа хапкидо «Беркут» открыла набор учеников 
+
+
+
+
+© 2007-2020 SportSchools.ru - Каталог Спортивных ОрганизацийСвидетельство о регистрации СМИ ЭЛ № ФС 77 - 53186 от 22.03.2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+document.write("<a rel=\"nofollow\" href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t12.10;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+
+
+
+
+
+
+
+
+
+
+Организации | Новые
+
+
+
+Правила Конфиденциальность
+
+
+
+Контакты
+
+
+
+
+
+//<![CDATA[
+
+$(document).ready(function() {
+	if ($('body').width() > 480)
+	{
+		$('#leftBlocks').hcSticky({bottomEnd: 400});
+		//$('#rightBlocks').hcSticky({bottom: 100, bottomEnd: 400, stickTo:'document'});
+		//$('#center_main_block').hcSticky();
+	}
+});
+
+//]]>
+
+
+
+
+
+
+
+
+
+//<![CDATA[
+	var root = 'https://sportschools.ru/';
+	var a = document.getElementsByTagName("a");
+
+	for(i=0; i<a.length; i++)
+	{
+		if(a[i].id != '')
+		{
+			a[i].onclick = count_link;
+		}
+	}
+
+	function count_link()
+	{
+		// l = link, b = banner
+		var tp = this.id.charAt(0);
+
+		if(tp != 'l' &&  tp != 'c')
+		{
+			return true;
+		}
+
+		if(this.id.length < 2)
+		{
+			return true;
+		}
+
+		itemid = this.id.substring(1);
+		if(parseInt(itemid.charAt(0)) < 1 || itemid.match(/\D/))
+		{
+			return true;
+		}
+		i = new Image();
+		h = Math.random();
+
+		i.src= root + 'click-count.php?id='+itemid+'&type='+tp+'&;h='+h;
+
+		return true;
+	}
+	function voting(id, rating)
+	{
+		$.post(root+"exstars.php", {action: "vote", id: id, rating: rating}, function(result) {
+			if(result == 'already')
+			{
+				alert('{$lang.error_already_voted}');
+			}
+			else
+			{
+				$("#stars" + id).html(result);
+			}
+		});
+	}
+
+//]]>
+
+
+//<![CDATA[
+
+	$("ul li input.poll_option").click(function() {
+		var option_id;
+		option_id = $(this).attr('id');
+		option_id = option_id.split('_');
+		// extract option id
+		poll_id 		= option_id[2];
+		option_id	= option_id[3];
+
+		$("#poll_"+poll_id).fadeOut().before($("#spinner"));
+		$("#spinner").show();
+
+		gl = this;
+		$.post("polls.php", {id: option_id, poll_id: poll_id}, function(data) {
+			$("#spinner").hide();
+			$("#poll_"+poll_id).html(data).fadeIn();
+		})
+	});
+
+	var s = "Поиск";
+
+	$("#search_input").focus(function() {
+		if (this.value == s) {
+			this.value = "";
+		}
+	}).blur(function() {
+		if (this.value == "") {
+			this.value = s
+		}
+	});
+
+//]]>
+
+
+Для перехода в полноэкранный режим переверните телефон в горизонтальное положение
+
