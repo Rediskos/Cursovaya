@@ -25,12 +25,12 @@ def get_text(url):
     
     return root.text
 
-with open("BD_Med_Sport_Math/Med/Med.txt", "r", encoding = 'utf-8') as inpt:
+with open("BD_Med_Sport_Math/Math/Math.txt", "r", encoding = 'utf-8') as inpt:
     cnt = 0
     for ref in tqdm(inpt.readlines()):
         ref = ref.strip()
         text = get_text(ref)
-        file = open("BD_Med_Sport_Math/Med/Med_"+str(cnt)+".txt", "w",  encoding = 'utf-8')
+        file = open("BD_Med_Sport_Math/Math/Math_"+str(cnt)+".txt", "w",  encoding = 'utf-8')
         file.write(corr_text(text))
         file.close()
         cnt += 1
